@@ -1,0 +1,13 @@
+//
+// Created by HP on 26.11.2025.
+//
+
+#ifndef UNTITLED_ENES_BURAK_55889_TASK0_H
+#define UNTITLED_ENES_BURAK_55889_TASK0_H
+
+
+class Enes_Burak_55889_Task0 {
+};
+
+
+#endif //UNTITLED_ENES_BURAK_55889_TASK0_H
